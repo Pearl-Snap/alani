@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_email_hover</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="6" y="9" width="18" height="13"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sidebar" transform="translate(-127.000000, -1187.000000)">
+            <g id="Group">
+                <g id="icon_email_hover" transform="translate(128.000000, 1188.000000)">
+                    <path d="M15.0719172,30.1361507 L14.9280828,30.1361507 C6.68367633,30.1361507 0,23.4524744 0,15.2076473 L0,15.064654 C0,6.82024758 6.68367633,0.136150685 14.9280828,0.136150685 L15.0719172,0.136150685 C23.3167442,0.136150685 30,6.82024758 30,15.064654 L30,15.2076473 C30,23.4524744 23.3167442,30.1361507 15.0719172,30.1361507" id="Fill-1" stroke="#FF9900" fill="#FF9900"></path>
+                    <g id="Rectangle-6">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        <rect stroke="#FF9900" stroke-width="1" x="6.5" y="9.5" width="17" height="12"></rect>
+                    </g>
+                    <path d="M5.88037109,9.0949707 L13.7127221,14.8091207 C14.4236661,15.3277952 15.5736655,15.3320706 16.2944803,14.8091207 L24.1706543,9.0949707" id="Path-3" stroke="#FF9900"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

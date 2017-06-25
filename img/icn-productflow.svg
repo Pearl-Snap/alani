@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>icn_productflow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="32" y="34" width="18" height="12.9375" rx="3"></rect>
+        <rect id="path-2" x="14" y="19" width="53" height="43" rx="5.04"></rect>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="53" height="43" fill="white">
+            <use xlink:href="#path-2"></use>
+        </mask>
+    </defs>
+    <g id="01_Alani-Site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page_v5" transform="translate(-886.000000, -1954.000000)">
+            <g id="icn_productflow" transform="translate(887.000000, 1955.000000)">
+                <circle id="Oval-2" stroke="#FFFFFF" stroke-width="0.8" cx="40" cy="40" r="40"></circle>
+                <rect id="Rectangle-18" stroke="#FFFFFF" stroke-width="0.8" x="24.4" y="28.4" width="33.2" height="24.2" rx="5.04"></rect>
+                <g id="Rectangle-18">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#FFFFFF" stroke-width="0.8" x="32.4" y="34.4" width="17.2" height="12.1375" rx="3"></rect>
+                </g>
+                <use id="Rectangle-18" stroke="#FFFFFF" mask="url(#mask-3)" stroke-width="1.6" stroke-dasharray="1.259999978542328" xlink:href="#path-2"></use>
+                <path d="M32.5157894,17.7246377 L52.6066586,17.7246377 C52.823895,17.7246377 53,17.9007896 53,18.1154843 L53,20.985965 C53,21.2018236 52.8132695,21.3768116 52.6066586,21.3768116 L32.5157894,21.3768116 L32.5157894,23 L27.1891538,19.7933963 C26.9386581,19.6425994 26.9279088,19.4032259 27.179556,19.2499635 L32.5157894,16 L32.5157894,17.7246377 Z" id="Combined-Shape" fill="#7ED321"></path>
+                <path d="M32.5157894,59.7246377 L52.6066586,59.7246377 C52.823895,59.7246377 53,59.9007896 53,60.1154843 L53,62.985965 C53,63.2018236 52.8132695,63.3768116 52.6066586,63.3768116 L32.5157894,63.3768116 L32.5157894,65 L27.1891538,61.7933963 C26.9386581,61.6425994 26.9279088,61.4032259 27.179556,61.2499635 L32.5157894,58 L32.5157894,59.7246377 Z" id="Combined-Shape" fill="#7ED321" transform="translate(40.000000, 61.500000) scale(-1, 1) translate(-40.000000, -61.500000) "></path>
+                <path d="M6.97282061,38.1670205 L27.0636898,38.1670205 C27.2809263,38.1670205 27.4570313,38.3431724 27.4570313,38.5578671 L27.4570313,41.4283478 C27.4570313,41.6442064 27.2703007,41.8191944 27.0636898,41.8191944 L6.97282061,41.8191944 L6.97282061,43.4423828 L1.64618501,40.2357792 C1.39568939,40.0849823 1.3849401,39.8456087 1.63658727,39.6923463 L6.97282061,36.4423828 L6.97282061,38.1670205 Z" id="Combined-Shape" fill="#7ED321" transform="translate(14.457031, 39.942383) rotate(-90.000000) translate(-14.457031, -39.942383) "></path>
+                <path d="M59.0157894,38.2246377 L79.1066586,38.2246377 C79.323895,38.2246377 79.5,38.4007896 79.5,38.6154843 L79.5,41.485965 C79.5,41.7018236 79.3132695,41.8768116 79.1066586,41.8768116 L59.0157894,41.8768116 L59.0157894,43.5 L53.6891538,40.2933963 C53.4386581,40.1425994 53.4279088,39.9032259 53.679556,39.7499635 L59.0157894,36.5 L59.0157894,38.2246377 Z" id="Combined-Shape" fill="#7ED321" transform="translate(66.500000, 40.000000) scale(1, -1) rotate(-90.000000) translate(-66.500000, -40.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

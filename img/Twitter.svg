@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="15" cy="15" r="15"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="30" height="30" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" stroke="#131B23">
+            <use id="Oval" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+            <path d="M23.608,10.84 C23.736,10.616 23.841,10.378 23.921,10.13 L24.319,8.878 L23.189,9.548 C22.673387,9.85336128 22.1153065,10.0805027 21.533,10.222 C20.4075755,9.19344076 18.7723394,8.94654579 17.3934122,9.59698728 C16.014485,10.2474288 15.1650208,11.6663597 15.243,13.189 C12.9875106,12.9187826 10.9255145,11.7819951 9.493,10.019 L9.036,9.459 L8.673,10.084 C8.33944804,10.6579657 8.16415114,11.310153 8.165,11.974 C8.165,12.575 8.307,13.153 8.567,13.667 L8.138,13.43 L8.138,14.319 C8.138,15.335 8.545,16.269 9.213,16.951 L9.048,16.919 L9.305,17.722 C9.65054232,18.7995467 10.4630072,19.664168 11.517,20.076 C10.4497871,20.6172031 9.24596126,20.8294997 8.058,20.686 L5.904,20.434 L7.73,21.604 C9.30090767,22.6128669 11.1290349,23.1481825 12.996,23.146 C18.731,23.146 22.767,18.568 22.767,13.376 C22.767,13.316 22.767,13.26 22.765,13.197 C23.3598673,12.7305636 23.8772537,12.1730148 24.298,11.545 L25.263,10.105 L23.68,10.81 L23.608,10.84 L23.608,10.84 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

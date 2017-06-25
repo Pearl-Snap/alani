@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="102px" height="102px" viewBox="0 0 102 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_innovation</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="01_Alani-Site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="About-Us_v1" transform="translate(-1333.000000, -632.000000)" stroke="#131B23">
+            <g id="icon_innovation" transform="translate(1334.000000, 633.000000)">
+                <circle id="Oval-2" cx="50" cy="50" r="50"></circle>
+                <polyline id="Path-10" points="41.7946466 54.5274163 33 59 49.8037045 66.8957677"></polyline>
+                <polyline id="Path-10" transform="translate(58.024494, 60.554039) scale(-1, 1) translate(-58.024494, -60.554039) " points="58.4361561 54.369863 49.6037736 58.9245957 66.4452139 66.7382144"></polyline>
+                <polyline id="Path-10" points="32.4946473 59.0175781 32.4946473 75.1324048 49.8037045 82.8135759"></polyline>
+                <polyline id="Path-10" transform="translate(58.301887, 70.923567) scale(-1, 1) translate(-58.301887, -70.923567) " points="49.6037736 59 49.6909428 75.1659624 67 82.8471335"></polyline>
+                <path d="M49.5,67 L49.5,82.6455078" id="Path-11"></path>
+                <g id="icon_discover" transform="translate(39.094340, 32.917808)">
+                    <path d="M12.6446828,26.8493151 L13.1025416,26.8493151 C14.1626063,26.8493151 15.0220413,25.9904101 15.0220413,24.9308972 L15.0220413,18.0293611 C17.9950077,16.4081663 20.0144941,13.2364162 20.0144941,9.5890411 C20.0144941,4.29315993 15.7569755,0 10.5050602,0 C5.2531448,0 0.995626198,4.29315993 0.995626198,9.5890411 C0.995626198,13.3328287 3.12328754,16.5755143 6.22581488,18.1546521 L6.22581488,24.9308972 C6.22581488,25.9942704 7.08520416,26.8493151 8.14531457,26.8493151 L8.60317337,26.8493151 L8.60317337,27.3212574 C8.60317337,27.583476 8.81784609,27.8082192 9.08265831,27.8082192 L12.1651979,27.8082192 C12.4273937,27.8082192 12.6446828,27.590199 12.6446828,27.3212574 L12.6446828,26.8493151 Z" id="Combined-Shape"></path>
+                    <path d="M6.23018868,21.8493151 L15.0264151,21.8493151" id="Path-4" stroke-width="0.8"></path>
+                    <path d="M6.23018868,23.4383562 L15.0264151,23.4383562" id="Path-4" stroke-width="0.8"></path>
+                    <path d="M6.23018868,25.0273973 L15.0264151,25.0273973" id="Path-4" stroke-width="0.8"></path>
+                </g>
+                <path d="M49.5,21.4267444 L49.5,32.6543905" id="Path-2" stroke-dasharray="1.6"></path>
+                <path d="M70.311634,40 L59.1132075,40" id="Path-2" stroke-dasharray="1.6"></path>
+                <path d="M40.1984264,40 L29,40" id="Path-2" stroke-dasharray="1.6"></path>
+                <path d="M41.6829654,37.092408 L31.8886009,31.6491371" id="Path-2" stroke-dasharray="1.6"></path>
+                <path d="M67.3226663,36.772038 L57.5283019,31.3287671" id="Path-2" stroke-dasharray="1.6" transform="translate(62.425484, 34.050403) scale(-1, 1) translate(-62.425484, -34.050403) "></path>
+                <path d="M59.5354557,24.1356713 L53.9362424,33.8590981" id="Path-2" stroke-dasharray="1.6"></path>
+                <path d="M45.6935528,24.1780822 L40.0943396,33.9015089" id="Path-2" stroke-dasharray="1.6" transform="translate(42.893946, 29.039796) scale(-1, 1) translate(-42.893946, -29.039796) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

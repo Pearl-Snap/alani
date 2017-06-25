@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="102px" height="102px" viewBox="0 0 102 102" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_orgevolution</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="01_Alani-Site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="About-Us_v1" transform="translate(-1431.000000, -416.000000)" stroke="#131B23">
+            <g id="icon_orgevolution" transform="translate(1432.000000, 417.000000)">
+                <circle id="Oval-2" cx="50" cy="50" r="50"></circle>
+                <g id="Group-7" transform="translate(13.000000, 14.000000)">
+                    <path d="M36.5,14.4880922 L36.5,5.56989247" id="Path-6" stroke-dasharray="1.6"></path>
+                    <polygon id="Path-8" points="33.4395581 5.59951749 39.8031098 5.59951749 36.621334 0.791230889"></polygon>
+                    <path d="M36.5,68.4301075 L36.5,59.5119078" id="Path-6" stroke-dasharray="1.6" transform="translate(36.500000, 63.971008) scale(1, -1) translate(-36.500000, -63.971008) "></path>
+                    <polygon id="Path-8" transform="translate(36.621334, 70.804626) scale(1, -1) translate(-36.621334, -70.804626) " points="33.4395581 73.2087691 39.8031098 73.2087691 36.621334 68.4004825"></polygon>
+                    <path d="M63.5,40.2655515 L63.5,31.3473517" id="Path-6" stroke-dasharray="1.6" transform="translate(63.500000, 35.806452) scale(1, -1) rotate(-270.000000) translate(-63.500000, -35.806452) "></path>
+                    <polygon id="Path-8" transform="translate(70.804626, 35.787268) scale(1, -1) rotate(-270.000000) translate(-70.804626, -35.787268) " points="67.62285 38.1914115 73.9864016 38.1914115 70.8046258 33.3831249"></polygon>
+                    <path d="M9.5,40.2655515 L9.5,31.3473517" id="Path-6" stroke-dasharray="1.6" transform="translate(9.500000, 35.806452) scale(-1, -1) rotate(-270.000000) translate(-9.500000, -35.806452) "></path>
+                    <polygon id="Path-8" transform="translate(3.195374, 35.787268) scale(-1, -1) rotate(-270.000000) translate(-3.195374, -35.787268) " points="0.0135983703 38.1914115 6.37715001 38.1914115 3.19537419 33.3831249"></polygon>
+                    <circle id="Oval-3" cx="37" cy="36.2043011" r="12.3333333"></circle>
+                    <ellipse id="Oval-3" cx="21.483871" cy="35.8064516" rx="6.3655914" ry="6.3655914"></ellipse>
+                    <ellipse id="Oval-3" cx="52.516129" cy="35.8064516" rx="6.3655914" ry="6.3655914"></ellipse>
+                    <circle id="Oval-3" cx="36.6021505" cy="20.688172" r="6.3655914"></circle>
+                    <circle id="Oval-3" cx="36.6021505" cy="51.7204301" r="6.3655914"></circle>
+                    <ellipse id="Oval-3" stroke-dasharray="1.6" cx="37.1199951" cy="36.3225806" rx="22" ry="22"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

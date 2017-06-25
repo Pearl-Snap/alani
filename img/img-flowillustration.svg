@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="747" height="631" viewBox="0 0 747 631">
+    <defs>
+        <rect id="a" width="628" height="383" x="84" y="120" rx="20"/>
+        <mask id="e" width="628" height="383" x="0" y="0" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <path id="b" d="M532.724 337h55.277c11.046 0 20 8.946 20 19.993v221.014c0 11.042-8.954 19.993-19.99 19.993H0"/>
+        <mask id="f" width="608.001" height="261" x="0" y="0" fill="#fff">
+            <use xlink:href="#b"/>
+        </mask>
+        <path id="c" d="M569.492 508h38.516C619.05 508 628 516.959 628 528.002v49.996c0 11.047-8.947 20.002-19.997 20.002h-.004"/>
+        <mask id="g" width="58.508" height="90" x="0" y="0" fill="#fff">
+            <use xlink:href="#c"/>
+        </mask>
+        <path id="d" d="M712 34v90.02c0 11.047-8.953 20.003-20.007 20.003H104.007C92.957 144.023 84 135.07 84 124.03V43.133"/>
+        <mask id="h" width="628" height="110.023" x="0" y="0" fill="#fff">
+            <use xlink:href="#d"/>
+        </mask>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <use stroke="#7ED321" stroke-dasharray="5" stroke-width="4" mask="url(#e)" xlink:href="#a"/>
+        <use stroke="#7ED321" stroke-dasharray="5" stroke-width="4" mask="url(#f)" transform="matrix(-1 0 0 1 608.001 0)" xlink:href="#b"/>
+        <use stroke="#7ED321" stroke-dasharray="5" stroke-width="4" mask="url(#g)" transform="matrix(1 0 0 -1 0 1106)" xlink:href="#c"/>
+        <use stroke="#7ED321" stroke-dasharray="5" stroke-width="4" mask="url(#h)" transform="matrix(1 0 0 -1 0 178.023)" xlink:href="#d"/>
+        <g fill="#131B23">
+            <path d="M65.726 393.874V184.87a3.992 3.992 0 0 1 3.99-3.995h28.02a3.996 3.996 0 0 1 3.99 3.995v209.005h-36z"/>
+            <path d="M49.726 383.874h69l-31.622 52.551c-1.479 2.457-3.892 2.454-5.386 0l-31.992-52.55z"/>
+        </g>
+        <text fill="#FFF" font-family="Montserrat-SemiBold, Montserrat" font-size="16.8" font-weight="500" transform="rotate(-90 138.826 196)">
+            <tspan x="16.041" y="147.174">Plan</tspan>
+        </text>
+        <g fill="#131B23">
+            <path d="M730.274 227.126V436.13a3.992 3.992 0 0 1-3.99 3.995h-28.02a3.996 3.996 0 0 1-3.99-3.995V227.126h36z"/>
+            <path d="M746.274 237.126h-69l31.622-52.551c1.479-2.457 3.892-2.454 5.386 0l31.992 52.55z"/>
+        </g>
+        <text fill="#FFF" font-family="Montserrat-SemiBold, Montserrat" font-size="16.8" font-weight="500" transform="rotate(90 283.5 569.674)">
+            <tspan x="1.442" y="147.174">Monitor</tspan>
+        </text>
+        <g fill="#455A64">
+            <path d="M236.626 103.226h385.997a3.996 3.996 0 0 1 4.003 3.99v28.02a3.99 3.99 0 0 1-4.003 3.99H236.626v-36z"/>
+            <path d="M237.626 87.226v69l-52.551-31.622c-2.457-1.479-2.454-3.892 0-5.386l52.55-31.992z"/>
+        </g>
+        <text fill="#FFF" font-family="Montserrat-SemiBold, Montserrat" font-size="16.8" font-weight="500" transform="translate(368.326 -101.674)">
+            <tspan x="-8.422" y="229">Strategize</tspan>
+        </text>
+        <g fill="#455A64">
+            <path d="M233.126 577.712h333.998a3.995 3.995 0 0 1 4.002 3.99v28.02a4 4 0 0 1-4.002 3.99H233.126v-36z"/>
+            <path d="M237.126 561.712v69l-52.551-31.623c-2.457-1.478-2.454-3.891 0-5.385l52.55-31.992z"/>
+        </g>
+        <text fill="#FFF" font-family="Montserrat-SemiBold, Montserrat" font-size="16.8" font-weight="500" transform="translate(369.826 372.811)">
+            <tspan x=".55" y="229">Operate</tspan>
+        </text>
+        <g fill="#131B23">
+            <path d="M571.874 484.216H185.877a3.996 3.996 0 0 0-4.003 3.99v28.02a3.99 3.99 0 0 0 4.003 3.99h385.997v-36z"/>
+            <path d="M570.874 468.216v69l52.551-31.622c2.457-1.478 2.454-3.892 0-5.385l-52.55-31.993z"/>
+        </g>
+        <text fill="#FFF" font-family="Montserrat-SemiBold, Montserrat" font-size="16.8" font-weight="500">
+            <tspan x="370.323" y="508">Develop</tspan>
+        </text>
+        <g>
+            <g fill="#455A64">
+                <path d="M237.126 16.726h385.997a3.996 3.996 0 0 1 4.003 3.99v28.02a3.99 3.99 0 0 1-4.003 3.99H237.126v-36z"/>
+                <path d="M238.126.726v69l-52.551-31.622c-2.457-1.479-2.454-3.892 0-5.386L238.125.726z"/>
+            </g>
+            <text fill="#FFF" font-family="Montserrat-SemiBold, Montserrat" font-size="16.8" font-weight="500" transform="translate(368.826 -188.174)">
+                <tspan x="-.425" y="229">Improve</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

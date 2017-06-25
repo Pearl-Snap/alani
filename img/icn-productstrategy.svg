@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>icn_productstrategy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="18" y="17" width="45" height="9" rx="1.8"></rect>
+        <rect id="path-2" x="18" y="29.6" width="20.7" height="9" rx="1.8"></rect>
+        <rect id="path-3" x="18" y="43.1" width="13.5" height="9" rx="1.8"></rect>
+        <rect id="path-4" x="18" y="55.7" width="9" height="6.3" rx="1.8"></rect>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="9" height="6.3" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+        <rect id="path-6" x="29.7" y="55.7" width="9" height="6.3" rx="1.8"></rect>
+        <mask id="mask-7" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="9" height="6.3" fill="white">
+            <use xlink:href="#path-6"></use>
+        </mask>
+        <rect id="path-8" x="42.3" y="55.7" width="9" height="6.3" rx="1.8"></rect>
+        <rect id="path-9" x="54" y="55.7" width="9" height="6.3" rx="1.8"></rect>
+        <rect id="path-10" x="49.5" y="43.1" width="13.5" height="9" rx="1.8"></rect>
+        <rect id="path-11" x="34.2" y="43.1" width="12.6" height="9" rx="1.8"></rect>
+        <rect id="path-12" x="42.3" y="29.6" width="20.7" height="9" rx="1.8"></rect>
+        <mask id="mask-13" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="20.7" height="9" fill="white">
+            <use xlink:href="#path-12"></use>
+        </mask>
+    </defs>
+    <g id="01_Alani-Site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page_v5" transform="translate(-680.000000, -1954.000000)">
+            <g id="icn_productstrategy" transform="translate(681.000000, 1955.000000)">
+                <g id="Rectangle-4">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#FFFFFF" stroke-width="0.9" x="18.45" y="17.45" width="44.1" height="8.1" rx="1.8"></rect>
+                </g>
+                <g id="Rectangle-4">
+                    <use fill="#7ED321" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#7ED321" stroke-width="0.9" x="18.45" y="30.05" width="19.8" height="8.1" rx="1.8"></rect>
+                </g>
+                <g id="Rectangle-4">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect stroke="#FFFFFF" stroke-width="0.9" x="18.45" y="43.55" width="12.6" height="8.1" rx="1.8"></rect>
+                </g>
+                <use id="Rectangle-4" stroke="#FFFFFF" mask="url(#mask-5)" stroke-width="1.8" stroke-dasharray="1.799999952316284" xlink:href="#path-4"></use>
+                <use id="Rectangle-4" stroke="#FFFFFF" mask="url(#mask-7)" stroke-width="1.8" stroke-dasharray="1.799999952316284" xlink:href="#path-6"></use>
+                <g id="Rectangle-4">
+                    <use fill="#7ED321" fill-rule="evenodd" xlink:href="#path-8"></use>
+                    <rect stroke="#7ED321" stroke-width="0.9" x="42.75" y="56.15" width="8.1" height="5.4" rx="1.8"></rect>
+                </g>
+                <g id="Rectangle-4">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                    <rect stroke="#FFFFFF" stroke-width="0.9" x="54.45" y="56.15" width="8.1" height="5.4" rx="1.8"></rect>
+                </g>
+                <g id="Rectangle-4">
+                    <use fill="#7ED321" fill-rule="evenodd" xlink:href="#path-10"></use>
+                    <rect stroke="#7ED321" stroke-width="0.9" x="49.95" y="43.55" width="12.6" height="8.1" rx="1.8"></rect>
+                </g>
+                <g id="Rectangle-4">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
+                    <rect stroke="#FFFFFF" stroke-width="0.9" x="34.65" y="43.55" width="11.7" height="8.1" rx="1.8"></rect>
+                </g>
+                <use id="Rectangle-4" stroke="#FFFFFF" mask="url(#mask-13)" stroke-width="1.8" stroke-dasharray="1.799999952316284" xlink:href="#path-12"></use>
+                <circle id="Oval-2" stroke="#FFFFFF" stroke-width="0.8" cx="40" cy="40" r="40"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

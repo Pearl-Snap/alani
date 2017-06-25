@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>icn_metricsguided</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polyline id="path-1" points="54 34 54 44.9453125 50 44.9453125 50 35.887207"></polyline>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="4" height="10.9453125" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <polyline id="path-3" points="46 41.0861816 46 44.1723633 42 44.1723633 42 38"></polyline>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="4" height="6.17236328" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+    </defs>
+    <g id="01_Alani-Site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page_v5" transform="translate(-1298.000000, -1954.000000)">
+            <g id="icn_metricsguided" transform="translate(1299.000000, 1955.000000)">
+                <circle id="Oval-2" stroke="#FFFFFF" stroke-width="0.8" cx="40" cy="40" r="40"></circle>
+                <polyline id="Line" stroke="#FFFFFF" stroke-linecap="square" points="16 20 16 62.6699219 55.9665527 62.6699219"></polyline>
+                <rect id="Rectangle-3" fill="#FFFFFF" x="18" y="42" width="4" height="18"></rect>
+                <rect id="Rectangle-3" fill="#FFFFFF" x="26" y="38" width="4" height="22"></rect>
+                <rect id="Rectangle-3" fill="#FFFFFF" x="34" y="34" width="4" height="26"></rect>
+                <rect id="Rectangle-3" fill="#FFFFFF" x="42" y="41" width="4" height="19"></rect>
+                <rect id="Rectangle-3" fill="#FFFFFF" x="50" y="42" width="4" height="18"></rect>
+                <g id="Group" transform="translate(40.000000, 28.000000)" stroke="#7ED321" stroke-width="2">
+                    <path d="M16.5,14.5 L29.5,23.5" id="Line" stroke-linecap="square"></path>
+                    <circle id="Oval-6" fill="#485563" cx="9" cy="9" r="9"></circle>
+                </g>
+                <use id="Rectangle-3" stroke="#FFFFFF" mask="url(#mask-2)" stroke-dasharray="1" transform="translate(52.000000, 39.472656) rotate(-180.000000) translate(-52.000000, -39.472656) " xlink:href="#path-1"></use>
+                <use id="Rectangle-3" stroke="#FFFFFF" mask="url(#mask-4)" stroke-dasharray="1" transform="translate(44.000000, 41.086182) rotate(-180.000000) translate(-44.000000, -41.086182) " xlink:href="#path-3"></use>
+            </g>
+        </g>
+    </g>
+</svg>

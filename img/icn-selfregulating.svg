@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>icn_selfregulating</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="01_Alani-Site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page_v5" transform="translate(-1092.000000, -1954.000000)">
+            <g id="icn_selfregulating" transform="translate(1093.000000, 1955.000000)">
+                <circle id="Oval-2" stroke="#FFFFFF" stroke-width="0.8" cx="40" cy="40" r="40"></circle>
+                <g id="Group-2" transform="translate(13.000000, 11.000000)">
+                    <path d="M5.34826531,12.5121951 L2.87422376,40.9836843" id="Path-2" stroke="#FFFFFF" stroke-width="0.7" stroke-dasharray="1.310399985313415"></path>
+                    <polyline id="Path-2" stroke="#FFFFFF" stroke-width="0.7" points="15.4425831 54.8036454 4.04966697 41.6231421 28.200308 3.88901724 44.3883025 46.8158525 51.7656375 13.9648914"></polyline>
+                    <path d="M44.7742638,46.867783 L16.2179487,54.2195122" id="Path-2" stroke="#FFFFFF" stroke-width="0.7" stroke-dasharray="1.310399985313415"></path>
+                    <path d="M5.01749674,13.4096084 L16.2179487,54.2195122" id="Path-2" stroke="#FFFFFF" stroke-width="0.7"></path>
+                    <path d="M51.9116211,54.2049173 L15.5596454,13.7327315" id="Path-2" stroke="#FFFFFF" stroke-width="0.7" stroke-dasharray="1.310399985313415" transform="translate(33.735633, 33.968824) scale(-1, 1) translate(-33.735633, -33.968824) "></path>
+                    <polygon id="Path-2" stroke="#FFFFFF" stroke-width="0.7" stroke-dasharray="1.310399985313415" points="51.9129983 13.6926805 5.98670373 12.8655262 27.5254783 3.21018721"></polygon>
+                    <path d="M43.7854317,13.2073171 L4.93589744,47.0205197" id="Path-2" stroke="#FFFFFF" stroke-width="0.7" stroke-dasharray="1.310399985313415" transform="translate(24.360665, 30.113918) scale(-1, 1) translate(-24.360665, -30.113918) "></path>
+                    <ellipse id="Oval-3" fill="#7ED321" cx="51.3607624" cy="15.0669512" rx="4.00178806" ry="3.94499993"></ellipse>
+                    <ellipse id="Oval-3" fill="#FFFFFF" cx="4.93589744" cy="12.5121951" rx="2.82051282" ry="2.7804878"></ellipse>
+                    <ellipse id="Oval-3" fill="#FFFFFF" cx="16.2179487" cy="22.2439024" rx="2.82051282" ry="2.7804878"></ellipse>
+                    <ellipse id="Oval-3" fill="#FFFFFF" cx="27.5" cy="2.7804878" rx="2.82051282" ry="2.7804878"></ellipse>
+                    <ellipse id="Oval-3" fill="#7ED321" cx="31.9120445" cy="37.3108536" rx="4.00178806" ry="3.94499993"></ellipse>
+                    <ellipse id="Oval-3" fill="#FFFFFF" cx="15.5128205" cy="54.2195122" rx="2.82051282" ry="2.7804878"></ellipse>
+                    <ellipse id="Oval-3" fill="#7ED321" cx="2.82051282" cy="41.0121951" rx="2.82051282" ry="2.7804878"></ellipse>
+                    <ellipse id="Oval-3" fill="#FFFFFF" cx="44.4230769" cy="46.5731707" rx="2.82051282" ry="2.7804878"></ellipse>
+                    <ellipse id="Oval-3" fill="#FFFFFF" cx="37.724359" cy="29.5426829" rx="1.76282051" ry="1.73780488"></ellipse>
+                    <ellipse id="Oval-3" fill="#FFFFFF" cx="10.224359" cy="32.3231707" rx="1.76282051" ry="1.73780488"></ellipse>
+                    <ellipse id="Oval-3" fill="#FFFFFF" cx="32.0833333" cy="13.554878" rx="1.76282051" ry="1.73780488"></ellipse>
+                    <ellipse id="Oval-3" fill="#7ED321" cx="22.9166667" cy="12.8597561" rx="1.76282051" ry="1.73780488"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>icn_improvement</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="01_Alani-Site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page_v5" transform="translate(-1190.000000, -2161.000000)">
+            <g id="icn_improvement" transform="translate(1191.000000, 2162.000000)">
+                <polygon id="Path-8" stroke="#FFFFFF" fill="#FFFFFF" transform="translate(61.425000, 63.209379) scale(1, -1) rotate(-270.000000) translate(-61.425000, -63.209379) " points="58.2156213 65.6343786 64.6343786 65.6343786 61.425 60.7843787"></polygon>
+                <polygon id="Path-8" stroke="#FFFFFF" fill="#FFFFFF" transform="translate(19.209379, 17.425000) scale(1, -1) rotate(-180.000000) translate(-19.209379, -17.425000) " points="16 19.8499999 22.4187573 19.8499999 19.2093787 15"></polygon>
+                <circle id="Oval-2" stroke="#FFFFFF" stroke-width="0.8" cx="40" cy="40" r="40"></circle>
+                <polyline id="Line" stroke="#FFFFFF" stroke-linecap="square" points="19 20 19 62.6699219 58.9665527 62.6699219"></polyline>
+                <polyline id="Path-15" stroke="#FFFFFF" stroke-dasharray="2" points="22 53.483871 31.3994141 47.1083984 52.9208984 44.4174647 64.1416016 36.0959473"></polyline>
+                <polyline id="Path-15" stroke="#7ED321" points="22 53.483871 32.8808594 51.3364258 40.5175781 51.3364258 50.6269531 38.5292969 61.2529297 27.9472656"></polyline>
+                <circle id="Oval-5" fill="#7ED321" cx="23.5" cy="53.5" r="2.5"></circle>
+                <circle id="Oval-5" fill="#7ED321" cx="40.5" cy="50.5" r="2.5"></circle>
+                <circle id="Oval-5" fill="#7ED321" cx="50.5" cy="39.5" r="2.5"></circle>
+                <circle id="Oval-5" fill="#7ED321" cx="61.5" cy="27.5" r="2.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

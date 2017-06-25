@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="710" height="162" viewBox="0 0 710 162">
+    <g fill="none" fill-rule="evenodd" transform="translate(2 -3)">
+        <path stroke="#131B23" stroke-dasharray="7" stroke-linecap="square" stroke-width="3" d="M.367 153.023h73.689l97.169-21.95H346.48s138.156-.827 209.949-30.69c71.792-29.865 94.642-40.585 149.55-86.985"/>
+        <ellipse cx="77.932" cy="152.235" fill="#131B23" opacity=".9" rx="12.762" ry="12.765"/>
+        <ellipse cx="262.98" cy="129.441" fill="#131B23" opacity=".9" rx="12.762" ry="12.765"/>
+        <ellipse cx="458.054" cy="121.235" fill="#131B23" opacity=".9" rx="12.762" ry="12.765"/>
+        <ellipse cx="683.592" cy="30.324" fill="#131B23" opacity=".9" rx="12.762" ry="12.765"/>
+        <text fill="#010B17" font-family="Montserrat-Regular, Montserrat" font-size="14" letter-spacing=".163">
+            <tspan x="64.77" y="86.941">Just </tspan> <tspan x="52.562" y="104.941">Getting </tspan> <tspan x="52.968" y="122.941">Started</tspan>
+        </text>
+        <text fill="#010B17" font-family="Montserrat-Regular, Montserrat" font-size="14" letter-spacing=".163">
+            <tspan x="238.539" y="100.059">Stalled</tspan>
+        </text>
+        <text fill="#010B17" font-family="Montserrat-Regular, Montserrat" font-size="14" letter-spacing=".163">
+            <tspan x="416.354" y="74.353">Maturing &amp; </tspan> <tspan x="429.78" y="92.353">Scaling</tspan>
+        </text>
+        <text fill="#010B17" font-family="Montserrat-Regular, Montserrat" font-size="14" letter-spacing=".184">
+            <tspan x="563.045" y="14">Optimizing &amp; </tspan> <tspan x="565.656" y="32">Accelerating</tspan>
+        </text>
+    </g>
+</svg>

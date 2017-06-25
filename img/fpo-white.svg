@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_placeholder</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="01_Alani-Site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page_v4" transform="translate(-680.000000, -1954.000000)" stroke="#FFFFFF" stroke-width="0.8">
+            <g id="icon_placeholder" transform="translate(681.000000, 1955.000000)">
+                <ellipse id="Oval-2" cx="40" cy="40" rx="40" ry="40"></ellipse>
+                <circle id="Oval-3" cx="40" cy="60" r="7.2"></circle>
+                <path d="M40,52.8 L40,16.8" id="Path-6"></path>
+                <path d="M40,38.809375 C40,38.809375 40.3976562,25.6 52.6140625,25.6" id="Path-7" stroke-dasharray="1.6"></path>
+                <path d="M27.3398438,48.2898438 C27.3398438,48.2898438 27.7375,35.0804688 39.9539063,35.0804688" id="Path-7" stroke-dasharray="1.6" transform="translate(33.646875, 41.685156) scale(-1, 1) translate(-33.646875, -41.685156) "></path>
+                <polygon id="Path-8" points="36.8203125 16.8297852 43.2182617 16.8297852 40.0192871 11.9955078"></polygon>
+                <polygon id="Path-8" transform="translate(55.290381, 25.670654) rotate(-270.000000) translate(-55.290381, -25.670654) " points="52.0914063 28.087793 58.4893555 28.087793 55.2903809 23.2535156"></polygon>
+                <polygon id="Path-8" transform="translate(24.817139, 35.198975) scale(-1, 1) rotate(-270.000000) translate(-24.817139, -35.198975) " points="21.6181641 37.6161133 28.0161133 37.6161133 24.8171387 32.7818359"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
