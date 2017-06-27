@@ -1,6 +1,6 @@
 <?php
-if(isset($_POST['FormName'])) {
-  $to = "jreynoso@gmail.com"; // TODO: update with the recipient we want in production
+if(isset($_POST['submit'])) {
+  $to = "victor.tran.atx@gmail.com"; // TODO: update with the recipient we want in production
   $from = $_POST['Email'];
   $first_name = $_POST['FirstName'];
   $last_name = $_POST['LastName'];
@@ -23,14 +23,12 @@ if(isset($_POST['FormName'])) {
 
   if (IsValid($from)) {
     mail($to, $subject, $message, $headers);
-
-    // TODO: show a thank-you modal
-    $_POST['FormName'] = null;
-    echo "thank you";
+    header('Location: thank-you.php');
   } else {
-    // TODO: show error modal
-    echo "something's wrong";
+    header('Location: submission-error.php');
   }
+} else {
+  header('Location: internal-error.php');
 }
 
 function IsValid($str) {
@@ -39,7 +37,7 @@ function IsValid($str) {
   $inject = join('|', $injections);
   $inject = "/$inject/i";
 
-  return !preg_match($inject, $str);
+  return strlen($str) > 5 && !preg_match($inject, $str);
 }
 
 ?>
