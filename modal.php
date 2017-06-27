@@ -1,7 +1,7 @@
 <div class="modal fade" tabindex="-1" role="dialog" id="bap" aria-labelledby="gridSystemModalLabel">
 	<div class="modal-dialog" role="document">
 		<div class="modal-content">
-      <form id="book_presentation" method="POST" action="send-mail.php" role="form">
+      <form id="book_presentation" method="POST" action="send-mail.php" role="form" data-toggle="validator">
         <div class="modal-header">
           <div class="row">
             <div class="col-md-10 col-md-offset-1">
@@ -17,20 +17,20 @@
           <div class="row">
             <div class="col-md-10 col-md-offset-1">
               <input type="hidden" name="FormName" value="Form: Book a Presentation">
-              <div class="row form-group">
-                <div class="col-xs-12 col-md-6"><label for="FirstName">FIRST NAME</label><input type="text" class="form-control" name="FirstName" placeholder="FIRST NAME"></div>
-                <div class="col-xs-12 col-md-6"><label for="LastName">LAST NAME</label><input type="text" class="form-control" name="LastName" placeholder="LAST NAME"></div>
+              <div class="row">
+                <div class="col-xs-12 col-md-6 form-group"><label for="FirstName">FIRST NAME</label><input type="text" class="form-control" name="FirstName" placeholder="FIRST NAME" required><div class="help-block with-errors"></div></div>
+                <div class="col-xs-12 col-md-6 form-group"><label for="LastName">LAST NAME</label><input type="text" class="form-control" name="LastName" placeholder="LAST NAME" required><div class="help-block with-errors"></div></div>
               </div>
-              <div class="row form-group">
-                <div class="col-xs-12 col-md-6"><label for="Role">ROLE</label><input type="text" class="form-control" name="Role" placeholder="ROLE"></div>
-                <div class="col-xs-12 col-md-6"><label for="Company">COMPANY</label><input type="text" class="form-control" name="Company" placeholder="COMPANY"></div>
+              <div class="row">
+                <div class="col-xs-12 col-md-6 form-group"><label for="Role">ROLE</label><input type="text" class="form-control" name="Role" placeholder="ROLE" required><div class="help-block with-errors"></div></div>
+                <div class="col-xs-12 col-md-6 form-group"><label for="Company">COMPANY</label><input type="text" class="form-control" name="Company" placeholder="COMPANY" required><div class="help-block with-errors"></div></div>
               </div>
-              <div class="row form-group">
-                <div class="col-xs-12 col-md-6"><label for="Phone">PHONE</label><input type="tel" class="form-control" name="Phone" placeholder="PHONE"></div>
-                <div class="col-xs-12 col-md-6"><label for="Email">EMAIL</label><input type="email" class="form-control" name="Email" placeholder="EMAIL"></div>
+              <div class="row">
+                <div class="col-xs-12 col-md-6 form-group"><label for="Phone">PHONE</label><input type="tel" class="form-control" name="Phone" placeholder="PHONE" data-error="Please enter a valid phone number" required><div class="help-block with-errors"></div></div>
+                <div class="col-xs-12 col-md-6 form-group"><label for="Email">EMAIL</label><input type="email" class="form-control" name="Email" placeholder="EMAIL" data-error="Please enter a valid email" required><div class="help-block with-errors"></div></div>
               </div>
-              <div class="row form-group m-b-md">
-                <div class="col-xs-12"><label for="HowCanWeHelp">TELL US YOUR CURRENT CHALLENGE</label><textarea class="form-control" rows="3" name="HowCanWeHelp" placeholder="TELL US YOUR CURRENT CHALLENGE"></textarea></div>
+              <div class="row m-b-md">
+                <div class="col-xs-12 form-group"><label for="HowCanWeHelp">TELL US YOUR CURRENT CHALLENGE</label><textarea class="form-control" rows="3" name="HowCanWeHelp" placeholder="TELL US YOUR CURRENT CHALLENGE" required></textarea><div class="help-block with-errors"></div></div>
               </div>
             </div>
           </div>
@@ -51,7 +51,7 @@
 <div class="modal fade" tabindex="-1" role="dialog" id="wbap" aria-labelledby="gridSystemModalLabel">
 	<div class="modal-dialog" role="document">
 		<div class="modal-content">
-      <form id="lets_whiteboard" method="POST" action="send-mail.php" role="form">
+      <form id="lets_whiteboard" method="POST" action="send-mail.php" role="form" data-toggle="validator">
         <div class="modal-header">
           <div class="row">
             <div class="col-md-10 col-md-offset-1">
@@ -67,20 +67,20 @@
           <div class="row">
             <div class="col-md-10 col-md-offset-1">
               <input type="hidden" name="FormName" value="Form: Let's Whiteboard a Problem Together">
-              <div class="row form-group">
-                <div class="col-xs-12 col-md-6"><label for="FirstName">FIRST NAME</label><input type="text" class="form-control" name="FirstName" placeholder="FIRST NAME"></div>
-                <div class="col-xs-12 col-md-6"><label for="LastName">LAST NAME</label><input type="text" class="form-control" name="LastName" placeholder="LAST NAME"></div>
+              <div class="row">
+                <div class="col-xs-12 col-md-6 form-group"><label for="FirstName">FIRST NAME</label><input type="text" class="form-control" name="FirstName" placeholder="FIRST NAME" required><div class="help-block with-errors"></div></div>
+                <div class="col-xs-12 col-md-6 form-group"><label for="LastName">LAST NAME</label><input type="text" class="form-control" name="LastName" placeholder="LAST NAME" required><div class="help-block with-errors"></div></div>
               </div>
-              <div class="row form-group">
-                <div class="col-xs-12 col-md-6"><label for="Role">ROLE</label><input type="text" class="form-control" name="Role" placeholder="ROLE"></div>
-                <div class="col-xs-12 col-md-6"><label for="Company">COMPANY</label><input type="text" class="form-control" name="Company" placeholder="COMPANY"></div>
+              <div class="row">
+                <div class="col-xs-12 col-md-6 form-group"><label for="Role">ROLE</label><input type="text" class="form-control" name="Role" placeholder="ROLE" required><div class="help-block with-errors"></div></div>
+                <div class="col-xs-12 col-md-6 form-group"><label for="Company">COMPANY</label><input type="text" class="form-control" name="Company" placeholder="COMPANY" required><div class="help-block with-errors"></div></div>
               </div>
-              <div class="row form-group">
-                <div class="col-xs-12 col-md-6"><label for="Phone">PHONE</label><input type="tel" class="form-control" name="Phone" placeholder="PHONE"></div>
-                <div class="col-xs-12 col-md-6"><label for="Email">EMAIL</label><input type="email" class="form-control" name="Email" placeholder="EMAIL"></div>
+              <div class="row">
+                <div class="col-xs-12 col-md-6 form-group"><label for="Phone">PHONE</label><input type="tel" class="form-control" name="Phone" placeholder="PHONE" data-error="Please enter a valid phone number" required><div class="help-block with-errors"></div></div>
+                <div class="col-xs-12 col-md-6 form-group"><label for="Email">EMAIL</label><input type="email" class="form-control" name="Email" placeholder="EMAIL" data-error="Please enter a valid email" required><div class="help-block with-errors"></div></div>
               </div>
-              <div class="row form-group m-b-md">
-                <div class="col-xs-12"><label for="HowCanWeHelp">TELL US YOUR CURRENT CHALLENGE</label><textarea class="form-control" rows="3" id="HowCanWeHelp" placeholder="TELL US YOUR CURRENT CHALLENGE"></textarea></div>
+              <div class="row m-b-md">
+                <div class="col-xs-12 form-group"><label for="HowCanWeHelp">TELL US YOUR CURRENT CHALLENGE</label><textarea class="form-control" rows="3" id="HowCanWeHelp" placeholder="TELL US YOUR CURRENT CHALLENGE" required></textarea><div class="help-block with-errors"></div></div>
               </div>
             </div>
           </div>

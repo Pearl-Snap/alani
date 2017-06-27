@@ -226,7 +226,7 @@
 									<div class="col-xs-12 col-md-6 form-group"><label for="Company">COMPANY</label><input type="text" class="form-control" name="Company" placeholder="COMPANY" required><div class="help-block with-errors"></div></div>
 								</div>
 								<div class="row">
-									<div class="col-xs-12 col-md-6 form-group"><label for="Phone">PHONE</label><input type="tel" class="form-control" name="Phone" placeholder="PHONE" required><div class="help-block with-errors"></div></div>
+									<div class="col-xs-12 col-md-6 form-group"><label for="Phone">PHONE</label><input type="tel" class="form-control" name="Phone" placeholder="PHONE" data-error="Please enter a valid phone number" required><div class="help-block with-errors"></div></div>
 									<div class="col-xs-12 col-md-6 form-group"><label for="Email">EMAIL</label><input type="email" class="form-control" name="Email" placeholder="EMAIL" data-error="Please enter a valid email" required><div class="help-block with-errors"></div></div>
 								</div>
 								<div class="row m-b-lg">
