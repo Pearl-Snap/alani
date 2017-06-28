@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="82px" height="82px" viewBox="0 0 82 82" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>icn_omnichannel</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="01_Alani-Site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page_v5" transform="translate(-984.000000, -2161.000000)">
+            <g id="icn_omnichannel" transform="translate(985.000000, 2162.000000)">
+                <circle id="Oval-2" stroke="#FFFFFF" stroke-width="0.8" cx="40" cy="40" r="40"></circle>
+                <path d="M40.5,66.0571289 L40.5,14.6591797" id="Path-6" stroke="#FFFFFF" stroke-dasharray="1.280000019073486"></path>
+                <path d="M38.5,64.459858 L38.5,16.6747018" id="Path-6" stroke="#FFFFFF" stroke-dasharray="1.280000019073486" transform="translate(38.500000, 40.567280) scale(-1, -1) rotate(-270.000000) translate(-38.500000, -40.567280) "></path>
+                <path d="M40.5293638,65.7767658 L40.4188784,14.9576092" id="Path-6" stroke="#FFFFFF" transform="translate(40.474121, 40.367187) rotate(-495.000000) translate(-40.474121, -40.367187) "></path>
+                <path d="M40.3510196,66.5628949 L40.4639219,15.1177692" id="Path-6" stroke="#FFFFFF" transform="translate(40.407471, 40.840332) rotate(-405.000000) translate(-40.407471, -40.840332) "></path>
+                <ellipse id="Oval-3" stroke="#7ED321" fill="#7ED321" cx="15.5388373" cy="40.0647312" rx="3.53883725" ry="3.56473118"></ellipse>
+                <ellipse id="Oval-3" stroke="#7ED321" fill="#7ED321" cx="64.8947695" cy="40.0647312" rx="3.53883725" ry="3.56473118"></ellipse>
+                <ellipse id="Oval-3" stroke="#7ED321" fill="#7ED321" cx="40.2168034" cy="14.5647312" rx="3.53883725" ry="3.56473118"></ellipse>
+                <ellipse id="Oval-3" stroke="#FFFFFF" transform="translate(60.892538, 19.528295) rotate(-315.000000) translate(-60.892538, -19.528295) " cx="60.8925378" cy="19.5282954" rx="3.53883725" ry="3.56473118"></ellipse>
+                <ellipse id="Oval-3" stroke="#FFFFFF" transform="translate(61.250285, 60.921399) rotate(-585.000000) translate(-61.250285, -60.921399) " cx="61.2502848" cy="60.9213985" rx="3.53883725" ry="3.56473118"></ellipse>
+                <ellipse id="Oval-3" stroke="#FFFFFF" transform="translate(19.991217, 61.171705) rotate(-495.000000) translate(-19.991217, -61.171705) " cx="19.9912168" cy="61.1717046" rx="3.53883725" ry="3.56473118"></ellipse>
+                <ellipse id="Oval-3" stroke="#FFFFFF" transform="translate(19.905800, 19.822351) rotate(-405.000000) translate(-19.905800, -19.822351) " cx="19.9057997" cy="19.8223515" rx="3.53883725" ry="3.56473118"></ellipse>
+                <ellipse id="Oval-3" stroke="#7ED321" fill="#7ED321" cx="40.2168034" cy="64.8647312" rx="3.53883725" ry="3.56473118"></ellipse>
+                <circle id="Oval-3" stroke="#FFFFFF" stroke-width="0.8" fill="#FFFFFF" cx="40" cy="40" r="8"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
