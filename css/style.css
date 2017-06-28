@@ -1277,7 +1277,7 @@ hr {
 .lets-connect {
   width: 112px;
   height: 112px;
-  background:url(/img/btn-connect-active.svg) no-repeat;
+  background:url("../img/btn-connect-active.svg") no-repeat;
 }
 
 /* Responsive CSS */

@@ -7,7 +7,7 @@
 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 <title>Alani</title>
 <link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/animate.css" rel="stylesheet">
+<link href="css/animate.min.css" rel="stylesheet">
 <link rel="stylesheet" href="css/magnific-popup.css">
 <link rel="stylesheet" href="css/flexslider.css" media="screen" />
 <link href="css/font-awesome.min.css" rel="stylesheet">
