@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>icn_approach_2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="01_Alani-Site" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Approach_v4" transform="translate(-994.000000, -2693.000000)">
+            <g id="icn_approach_2" transform="translate(995.000000, 2694.000000)">
+                <circle id="Oval" stroke="#37474F" fill="#CBEDA6" cx="30" cy="30" r="30"></circle>
+                <path d="M30.294,29.836 L22.818,37.564 L22.818,40 L37.182,40 L37.182,37.032 L27.158,37.032 L32.534,31.6 C34.69,29.36 36.23,27.148 36.23,25.188 C36.23,22.164 33.626,20.232 29.79,20.232 C27.214,20.232 24.666,21.296 22.482,23.032 L23.826,25.58 C25.506,24.068 27.578,23.144 29.342,23.144 C31.498,23.144 32.786,24.068 32.786,25.664 C32.786,26.784 31.778,28.352 30.294,29.836 Z" id="2" fill="#263238"></path>
+            </g>
+        </g>
+    </g>
+</svg>
