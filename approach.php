@@ -139,7 +139,8 @@
 <!-- jQuery --> 
 <script src="js/jquery.js"></script> 
 <!-- Bootstrap JS --> 
-<script src="js/bootstrap.min.js"></script> 
+<script src="js/bootstrap.min.js"></script>
+<script src="js/validator.js"></script>
 <!-- Isotope (Filter portfolio) --> 
 <script src="js/isotope.js"></script> 
 <!-- Magnific Popup core JS file --> 
