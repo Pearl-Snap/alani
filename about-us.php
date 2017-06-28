@@ -69,10 +69,10 @@
 							<h4 class="text-center">We have developed advanced techniques for:</h4>
 						</div>
 					</div>
-					<div class="row">
-						<div class="col-xs-4"><p class="text-center"><img src="img/icon-agilelean.svg"/><br/><h6 class="text-center">Agile-Lean Business Strategy</h6></p></div>
-						<div class="col-xs-4"><p class="text-center"><img src="img/icon-productportfolio.svg"/><br/><h6 class="text-center">Portfolio &amp; Product Management</h6></p></div>
-						<div class="col-xs-4"><p class="text-center"><img src="img/icon-orgevolution.svg"/><br/><h6 class="text-center">Organizational Evolution Management</h6></p></div>
+					<div class="row" style="margin-bottom: 20px;">
+						<div class="col-xs-6 col-sm-4"><p class="text-center"><img src="img/icon-agilelean.svg"/><br/><h6 class="text-center">Agile-Lean Business Strategy</h6></p></div>
+						<div class="col-xs-6 col-sm-4"><p class="text-center"><img src="img/icon-productportfolio.svg"/><br/><h6 class="text-center">Portfolio &amp; Product Management</h6></p></div>
+						<div class="col-xs-12 col-sm-4"><p class="text-center"><img src="img/icon-orgevolution.svg"/><br/><h6 class="text-center">Organizational Evolution Management</h6></p></div>
 					</div>
 					<div class="row">
 						<div class="col-xs-6"><p class="text-center"><img src="img/icon-designdev.svg"/><br/><h6 class="text-center">Design &amp; Development</h6></p></div>

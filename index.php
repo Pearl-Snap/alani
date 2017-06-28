@@ -7,8 +7,8 @@
 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 <title>Alani</title>
 <link href="css/bootstrap.css" rel="stylesheet">
-<!--<link href="css/animate.css" rel="stylesheet">-->
-<!--<link rel="stylesheet" href="css/magnific-popup.css">-->
+<link href="css/animate.css" rel="stylesheet">
+<link rel="stylesheet" href="css/magnific-popup.css">
 <link rel="stylesheet" href="css/flexslider.css" media="screen" />
 <link href="css/font-awesome.min.css" rel="stylesheet">
 <link href="css/style.css" rel="stylesheet">
@@ -84,27 +84,27 @@
 						<div class="col-md-6 col-md-offset-3">
 							<div class="well" style="background-color: #485563;">
 								<h4 class="m-b-md">We specialize in helping companies deliver radically improved business results by building industry leading:</h4>
-								<div class="row">
-									<div class="col-xs-6 col-lg-3"><p class="text-center" style="line-height: 1.2em;"><img src="img/icn-productstrategy.svg"><br/><small>Product Strategy &amp; Management Practices</small></p></div>
-									<div class="col-xs-6 col-lg-3"><p class="text-center" style="line-height: 1.2em;"><img src="img/icn-productflow.svg"/><br/><small>Product Flow-based Organizational Structure</small></p></div>
-									<div class="col-xs-6 col-lg-3"><p class="text-center" style="line-height: 1.2em;"><img src="img/icn-selfregulating.svg"/><br/><small>Self-regulating Product Ecosystems</small></p></div>
-									<div class="col-xs-6 col-lg-3"><p class="text-center" style="line-height: 1.2em;"><img src="img/icn-metricsguided.svg"/><br/><small>Metrics-guided Decision Making Programs</small></p></div>
+								<div class="row" style="margin-bottom: 20px;">
+									<div class="col-xs-6 col-lg-3"><p class="text-center" style="line-height: 1.1em;"><img src="img/icn-productstrategy.svg"><br/><small>Product Strategy &amp; Management Practices</small></p></div>
+									<div class="col-xs-6 col-lg-3"><p class="text-center" style="line-height: 1.1em;"><img src="img/icn-productflow.svg"/><br/><small>Product Flow-based Organizational Structure</small></p></div>
+									<div class="col-xs-6 col-lg-3"><p class="text-center" style="line-height: 1.1em;"><img src="img/icn-selfregulating.svg"/><br/><small>Self-regulating Product Ecosystems</small></p></div>
+									<div class="col-xs-6 col-lg-3"><p class="text-center" style="line-height: 1.1em;"><img src="img/icn-metricsguided.svg"/><br/><small>Metrics-guided Decision Making Programs</small></p></div>
 								</div>
 								<div class="row">
-									<div class="col-xs-6 col-lg-4"><p class="text-center" style="line-height: 1.2em;"><img src="img/icn-organicinnovation.svg"/><br/><small>Organic Innovation Practices</small></p></div>
-									<div class="col-xs-6 col-lg-4"><p class="text-center" style="line-height: 1.2em;"><img src="img/fpo-white.svg"/><br/><small>Digital &amp; Omnichannel Practices</small></p></div>
-									<div class="col-xs-12 col-lg-4"><p class="text-center" style="line-height: 1.2em;"><img src="img/icn-improvement.svg"/><br/><small>Improvement-driven Culture Initiatives</small></p></div>
+									<div class="col-xs-6 col-lg-4"><p class="text-center" style="line-height: 1.1em;"><img src="img/icn-organicinnovation.svg"/><br/><small>Organic Innovation Practices</small></p></div>
+									<div class="col-xs-6 col-lg-4"><p class="text-center" style="line-height: 1.1em;"><img src="img/icn-omnichannel.svg"/><br/><small>Digital &amp; Omnichannel Practices</small></p></div>
+									<div class="col-xs-12 col-lg-4"><p class="text-center" style="line-height: 1.1em;"><img src="img/icn-improvement.svg"/><br/><small>Improvement-driven Culture Initiatives</small></p></div>
 								</div>
 							</div>
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-sm-12"><p class="text-center"><a href="about-us.php"><img src="img/btn-aboutus.png" alt="about us"/></a></p></div>
+						<div class="col-sm-12"><p class="text-center"><a href="about-us.php"><img src="img/btn-aboutus.svg" alt="about us"/></a></p></div>
 					</div>
 				</div>
 			</div>
 			<div class="row">
-				<div class="block block-fill-height" style="background: url(img/lp-3-photo-placeholder.png) no-repeat left;">
+				<div class="block block-fill-height" style="background: url(img/LP3-background.png) no-repeat left;">
 					<div class="row m-b-lg">
 						<div class="col-md-8 col-md-offset-2">
 							<div class="well-lg" style="text-align: center;">
@@ -129,7 +129,7 @@
 						</div>
 					</div>
 					<div class="row">
-						<div class="col-sm-12"><p class="text-center"><a href="approach.php"><img src="img/btn-ourapproach.png" alt="our approach"/></a></p></div>
+						<div class="col-sm-12"><p class="text-center"><a href="approach.php"><img src="img/btn-ourapproach.svg" alt="our approach"/></a></p></div>
 					</div>
 				</div>
 			</div>
@@ -196,9 +196,9 @@
 							</div>
 						</div>
 					</div>
-					<div class="row">
-						<div class="col-sm-12"><p class="text-center"><a href=""><img src="img/btn-ourservices.png" alt="our services"/></a></p></div>
-					</div>
+					<!--<div class="row">
+						<div class="col-sm-12"><p class="text-center"><a href=""><img src="img/btn-ourservices.svg" alt="our services"/></a></p></div>
+					</div>-->
 				</div>
 			</div>
 			<div class="row">
@@ -206,7 +206,7 @@
 					<div class="row m-b-lg" style="background-color: rgba(152, 220, 77, .80);">
 						<div class="col-md-6 col-md-offset-3" style="padding: 30px; text-align: center;">
 							<h4 style="color: #131b23; line-height: 1.5em;">Contact us. We're ready to partner with you.<br/>
-							Call: +1 (832) 555-5555<br/>
+							<!--Call: +1 (832) 555-5555<br/>-->
 							Email: <a href="info@alani-consulting.com" style="color: #131b23; text-decoration: underline;">info@alani-consulting.com</a></h4>
 						</div>
 					</div>
@@ -242,13 +242,6 @@
 					</div>
 				</div>
 			</div>
-			<!--<div class="footer">
-				<div class="copy-right">
-					<div class="container">
-						<p>&copy; 2017 Copyright <a href="#">Alani</a>, All rights reserved.</p>
-					</div>
-				</div>
-			</div>-->
 		</div>
 	</div>
 	<div class="clearfix"></div>
@@ -262,16 +255,16 @@
 <script src="js/bootstrap.min.js"></script>
 <script src="js/validator.js"></script>
 <!-- Isotope (Filter portfolio) --> 
-<!--<script src="js/isotope.js"></script> -->
+<script src="js/isotope.js"></script>
 <!-- Magnific Popup core JS file --> 
-<!--<script src="js/jquery.magnific-popup.min.js"></script> -->
+<script src="js/jquery.magnific-popup.min.js"></script>
 <!-- Way Points JS --> 
-<!--<script src="js/waypoints.min.js"></script>-->
+<script src="js/waypoints.min.js"></script>
 <!-- FLEX SLIDER SCRIPTS  --> 
 <script defer src="js/jquery.flexslider-min.js"></script> 
 <!-- Gmap JS  --> 
-<!--<script src="http://maps.google.com/maps/api/js?sensor=false"></script> -->
-<!--<script src="js/jquery.gmap.min.js"></script>-->
+<script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script src="js/jquery.gmap.min.js"></script>
 <!-- Slim Scroll Plugin --> 
 <script src="js/jquery.slimscroll.min.js"></script> 
 <!-- Smooth Scroll JS --> 
