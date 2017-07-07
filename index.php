@@ -230,7 +230,7 @@
 									<div class="col-xs-12 col-md-6 form-group"><label for="Email">EMAIL</label><input type="email" class="form-control" name="Email" placeholder="EMAIL" data-error="Please enter a valid email" required><div class="help-block with-errors"></div></div>
 								</div>
 								<div class="row m-b-lg">
-									<div class="col-xs-12 form-group"><label for="HowCanWeHelp">HOW CAN WE HELP?</label><textarea class="form-control" rows="3" id="HowCanWeHelp" placeholder="HOW CAN WE HELP?" required></textarea><div class="help-block with-errors"></div></div>
+									<div class="col-xs-12 form-group"><label for="HowCanWeHelp">HOW CAN WE HELP?</label><textarea class="form-control" rows="3" name="HowCanWeHelp" placeholder="HOW CAN WE HELP?" required></textarea><div class="help-block with-errors"></div></div>
 								</div>
 								<div class="row">
 									<div class="col-xs-12"><div style="position: absolute; top: 30px; left: 50%; margin-right: -50%; transform: translate(-50%, -50%); z-index: 5;"><input type="submit" name="submit" value="" class="form-submit lets-connect"></div></div>

@@ -80,7 +80,7 @@
                 <div class="col-xs-12 col-md-6 form-group"><label for="Email">EMAIL</label><input type="email" class="form-control" name="Email" placeholder="EMAIL" data-error="Please enter a valid email" required><div class="help-block with-errors"></div></div>
               </div>
               <div class="row m-b-md">
-                <div class="col-xs-12 form-group"><label for="HowCanWeHelp">TELL US YOUR CURRENT CHALLENGE</label><textarea class="form-control" rows="3" id="HowCanWeHelp" placeholder="TELL US YOUR CURRENT CHALLENGE" required></textarea><div class="help-block with-errors"></div></div>
+                <div class="col-xs-12 form-group"><label for="HowCanWeHelp">TELL US YOUR CURRENT CHALLENGE</label><textarea class="form-control" rows="3" name="HowCanWeHelp" placeholder="TELL US YOUR CURRENT CHALLENGE" required></textarea><div class="help-block with-errors"></div></div>
               </div>
             </div>
           </div>
